@@ -1,0 +1,9 @@
+﻿  GameTanks.cpp
+c:\users\ilyah\source\repos\battle_city\battle_city\tank.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\ilyah\source\repos\battle_city\battle_city\tank.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\ilyah\source\repos\battle_city\battle_city\gametanks.cpp(45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ilyah\source\repos\battle_city\battle_city\gametanks.cpp(97): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ilyah\source\repos\battle_city\battle_city\gametanks.cpp(221): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\ilyah\source\repos\battle_city\battle_city\gametanks.cpp(383): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\ilyah\source\repos\battle_city\battle_city\gametanks.cpp(391): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  BATTLE_CITY.vcxproj -> C:\Users\ilyah\source\repos\BATTLE_CITY\Debug\BATTLE_CITY.exe
